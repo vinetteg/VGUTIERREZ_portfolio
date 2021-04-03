@@ -13,4 +13,4 @@ Here is a mockup of the page:
 ![portfolio menu](assets/images/mockup.png)
 
 Link to application:
-[https://images.pexels.com/photos/132037/pexels-photo-132037.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500]
+[https://vinetteg.github.io/VGUTIERREZ_portfolio/]
