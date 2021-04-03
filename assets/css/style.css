@@ -33,12 +33,6 @@ main {
   display: flex;
   flex-wrap: wrap;
 }
-aside {
-  display: flex;
-  flex-direction: column;
-  width: 12em;
-  height: 40em;
-}
 
 h2 {
   display: inline-block;
@@ -81,6 +75,12 @@ h4 {
   text-align: center;
 }
 
+ul {
+  background-image: linear-gradient(to bottom right, #a5678e, #bfb8da);
+  border-radius: 10px;
+  text-emphasis: bold;
+}
+
 html {
   scroll-behavior: smooth;
 }
@@ -94,7 +94,7 @@ img {
 }
 
 .resume-card {
-  font-size: 10px;
+  font-size: 12px;
   border-width: 1px;
   border-radius: 10px;
   background-image: linear-gradient(to bottom right, #a5678e, #bfb8da);
@@ -106,10 +106,33 @@ img {
   padding: 10px;
 }
 
+.work-card {
+  border-width: 1px;
+  border-radius: 10px;
+  background-image: linear-gradient(to bottom right, #a5678e, #bfb8da);
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  width: 558px;
+  height: 700px;
+  padding: 10px;
+  text-align: center;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
 @media screen and (max-width: 768px) {
   main,
   nav,
   .card {
     flex-wrap: wrap;
+    align-items: baseline;
   }
 }
