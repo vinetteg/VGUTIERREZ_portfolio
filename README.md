@@ -1,6 +1,6 @@
 # Vinette Gutierrez's Portfolio
 
-Homework assignment for week 2 - Portfolio
+Homework assignment for week 2, week 8 - Portfolio
 
 ## Summary
 
