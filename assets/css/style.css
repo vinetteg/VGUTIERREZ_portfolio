@@ -104,7 +104,7 @@ img {
   border-radius: 5px;
 }
 
-.resume-card {
+.card-body {
   font-size: 12px;
   border-width: 1px;
   border-radius: 10px;
@@ -112,9 +112,6 @@ img {
   display: flex;
   flex-direction: column;
   align-items: baseline;
-  width: 558px;
-  height: 20em;
-  padding: 10px;
 }
 
 .work-card {
