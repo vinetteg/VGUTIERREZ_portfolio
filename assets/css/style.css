@@ -1,6 +1,7 @@
 body {
+  color: #077b88;
   background-color: #e2ccc6;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Raleway", sans-serif;
 }
 
 h1 {
@@ -51,19 +52,6 @@ h4 {
   text-align: center;
 }
 
-.card {
-  border-width: 1px;
-  border-radius: 10px;
-  background-color: #e2ccc6;
-  padding: 10px;
-  margin: 20px;
-  display: flex;
-  flex-direction: column;
-  align-items: baseline;
-  width: 558px;
-  height: 20em;
-}
-
 .list {
   list-style-type: none;
   text-align: center;
@@ -72,7 +60,6 @@ h4 {
 }
 
 .contact {
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 22px;
   text-align: center;
 }
@@ -86,6 +73,13 @@ h4 {
   background-position: center;
 }
 
+.card {
+  background-color: #e2ccc6;
+  font-size: 12px;
+  border-width: 1px;
+  border-radius: 10px;
+}
+
 ul {
   background-color: #e2ccc6;
   border-radius: 10px;
@@ -96,30 +90,10 @@ html {
   scroll-behavior: smooth;
 }
 
-aside {
-  float: right;
-}
-
-img {
-  border-radius: 5px;
-}
-
-.card-body {
-  font-size: 12px;
-  border-width: 1px;
-  border-radius: 10px;
-  background-color: #e2ccc6;
-  display: flex;
-  flex-direction: column;
-  align-items: baseline;
-}
-
 .work-card {
   border-width: 1px;
   border-radius: 10px;
   background-color: #e2ccc6;
-  display: flex;
-  flex-direction: column;
   align-items: baseline;
   width: 558px;
   height: 700px;
@@ -140,11 +114,6 @@ img {
   main,
   nav,
   .card {
-    flex-wrap: wrap;
-    align-items: baseline;
-  }
-  .row {
-    flex-wrap: wrap;
-    align-items: baseline;
+    word-wrap: break-word;
   }
 }
