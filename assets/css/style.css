@@ -1,19 +1,20 @@
 body {
-  background-image: linear-gradient(to bottom right, #7facd6, #e8b7df);
+  background-color: #e2ccc6;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
   display: inline-block;
-  border-radius: 10px;
-  background-image: linear-gradient(to bottom right, #bfb8da, #a5678e);
   padding: 5px;
 }
 
+.jumbotron {
+  background-color: #e2ccc6;
+}
+
 .header {
-  padding: 15px;
   border-radius: 10px;
-  background-image: linear-gradient(to bottom right, #33539e, #a5678e);
+  background-color: #e2ccc6;
 }
 
 nav {
