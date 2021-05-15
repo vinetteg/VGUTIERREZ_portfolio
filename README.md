@@ -6,11 +6,16 @@ Homework assignment for week 2 - Portfolio
 
 This portfolio contains work done by Vinette Gutierrez. It also include information on how to contact Vinette. This is a living project that will be updated consistently as Vinette continues her coding journey.
 
+## Technologies Used
+
+[Google Fonts](https://fonts.google.com/) <br>
+[Bootstrap v4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+
 ## Portfolio Mock Up
 
 Here is a mockup of the page:
 
-![portfolio menu](assets/images/mockup.png)
+![portfolio menu](assets/images/newmockupimage.png)
 
 ## Link To Application
 
