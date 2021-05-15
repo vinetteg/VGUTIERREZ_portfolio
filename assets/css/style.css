@@ -17,13 +17,13 @@ h1 {
   background-color: #e2ccc6;
 }
 
-nav {
+.navbar {
   display: flex;
-  background-image: linear-gradient(to bottom right, #bfb8da, #a5678e);
+  background-color: #e2ccc6;
   border-radius: 5px;
 }
 
-nav a {
+.nav-link {
   padding: 14px 20px;
   text-decoration: none;
   text-align: center;
@@ -31,6 +31,7 @@ nav a {
 }
 
 main {
+  background-color: #e2ccc6;
   display: flex;
   flex-wrap: wrap;
 }
@@ -38,7 +39,7 @@ main {
 h2 {
   display: inline-block;
   border-radius: 10px;
-  background-image: linear-gradient(to bottom right, #bfb8da, #a5678e);
+  background-color: #e2ccc6;
   padding: 5px;
 }
 
@@ -53,7 +54,7 @@ h4 {
 .card {
   border-width: 1px;
   border-radius: 10px;
-  background-image: linear-gradient(to bottom right, #a5678e, #bfb8da);
+  background-color: #e2ccc6;
   padding: 10px;
   margin: 20px;
   display: flex;
@@ -86,7 +87,7 @@ h4 {
 }
 
 ul {
-  background-image: linear-gradient(to bottom right, #a5678e, #bfb8da);
+  background-color: #e2ccc6;
   border-radius: 10px;
   text-emphasis: bold;
 }
@@ -107,7 +108,7 @@ img {
   font-size: 12px;
   border-width: 1px;
   border-radius: 10px;
-  background-image: linear-gradient(to bottom right, #a5678e, #bfb8da);
+  background-color: #e2ccc6;
   display: flex;
   flex-direction: column;
   align-items: baseline;
@@ -119,7 +120,7 @@ img {
 .work-card {
   border-width: 1px;
   border-radius: 10px;
-  background-image: linear-gradient(to bottom right, #a5678e, #bfb8da);
+  background-color: #e2ccc6;
   display: flex;
   flex-direction: column;
   align-items: baseline;
