@@ -33,8 +33,6 @@ h1 {
 
 main {
   background-color: #e2ccc6;
-  display: flex;
-  flex-wrap: wrap;
 }
 
 h2 {
@@ -64,15 +62,6 @@ h4 {
   text-align: center;
 }
 
-.outdoor {
-  height: 800px;
-  width: 100%;
-  margin-bottom: 25px;
-  background: url(../images/outdoorimage.jpeg);
-  background-size: cover;
-  background-position: center;
-}
-
 .card {
   background-color: #e2ccc6;
   font-size: 12px;
@@ -88,26 +77,6 @@ ul {
 
 html {
   scroll-behavior: smooth;
-}
-
-.work-card {
-  border-width: 1px;
-  border-radius: 10px;
-  background-color: #e2ccc6;
-  align-items: baseline;
-  width: 558px;
-  height: 700px;
-  padding: 10px;
-  text-align: center;
-}
-
-.row {
-  display: flex;
-}
-
-.column {
-  flex: 33.33%;
-  padding: 5px;
 }
 
 @media screen and (max-width: 768px) {
