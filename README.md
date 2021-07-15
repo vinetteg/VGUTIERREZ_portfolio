@@ -15,7 +15,7 @@ This portfolio contains work done by Vinette Gutierrez. It also include informat
 
 Here is a mockup of the page:
 
-![portfolio menu](assets/images/newmockupimage.png)
+![portfolio menu](assets/images/newest.png)
 
 ## Link To Application
 
